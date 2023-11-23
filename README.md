@@ -22,9 +22,10 @@
 
 # API Test
 
-You can find the API Documentation by clicking this link 
+You can find the running this command in your terminal 
 ```curl GET http://localhost:8080/api/v1/product/amount/Product1```
-
+or by clicking this link
+http://localhost:8080/api/v1/product/amount/Product1
 ---
 
 
