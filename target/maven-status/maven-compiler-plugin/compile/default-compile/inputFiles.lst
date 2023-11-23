@@ -1,0 +1,14 @@
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/repository/ProductRepository.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/TaskApplication.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/exception/CustomException.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/dto/ProductDto.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/controller/ProductController.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/dto/ExceptionResponse.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/service/impl/ProductServiceImpl.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/util/ObjectMapperUtils.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/config/AppConfig.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/dto/SuccessResponse.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/service/ProductService.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/exception/GlobalExceptionHandler.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/exception/BadRequestException.java
+/Users/adeyemi/serverless/kotlin/product-task/src/main/java/com/fonyou/task/model/Product.java
